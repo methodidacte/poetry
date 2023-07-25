@@ -8,6 +8,7 @@ packages = [{include = "wheel_demo"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pandas = "^2.0.3"
 
 
 [build-system]
